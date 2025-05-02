@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'google-protobuf', '~> 3.23.4', '>= 3.23.4'
+    gem 'sass-embedded', '~> 1.58.3'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'
