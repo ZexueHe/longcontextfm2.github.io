@@ -2,7 +2,7 @@
 layout: default2
 title: home
 permalink: /
-title: <h3  align="center">Workshop on Long Context Foundation Models (LCFM)</h3>
+title: <h3  align="center">The 2nd Workshop on Long Context Foundation Models (LCFM)</h3>
 nav_order: 1
 ---
 
